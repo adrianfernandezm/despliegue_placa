@@ -1,0 +1,70 @@
+10
+
+dir
+17
+https://svn.riouxsvn.com/ic_se_03225435f/trunk/prac6_2_students/sais
+https://svn.riouxsvn.com/ic_se_03225435f
+
+
+
+2022-06-05T12:11:32.949256Z
+17
+ManuelAbad
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5220d878-86fd-4f4d-a457-747b50452c9a
+
+actuators_
+dir
+
+actuators_iface_ v1
+dir
+
+actuators_iface_v1
+dir
+
+bprint_
+dir
+
+bprint_iface_v1
+dir
+
+bprintf_iface_v1
+dir
+
+io_ctrl_iface_v1
+dir
+
+planner_
+dir
+
+planner_iface_ v1
+dir
+
+planner_iface_v1
+dir
+
+sensor_iface_v1
+dir
+
+sensors_
+dir
+
+sensors_iface_ v1
+dir
+
+sensors_iface_v1
+dir
+
